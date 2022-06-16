@@ -1,0 +1,499 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Gabriela&family=Montserrat:wght@400;500;700&display=swap');
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.contenet{
+    max-width: 1440px; 
+    max-height: 840px;
+    margin: auto;
+    background: rgb(255,204,0);
+    background: linear-gradient(90deg, rgba(255,204,0,1) 74%, rgba(204,204,153,1) 74%);
+    position: relative;
+}
+.first{
+    max-width: 1330px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 42px;
+}
+.two p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.two h1{
+    font-size: 30px;
+    font-weight: 400;
+}
+.two i{
+    font-size: 40px;
+}
+.three{
+    display: flex;
+    justify-content: space-around;
+}
+.five ul li{
+    list-style-type: none;
+    display: inline-block;
+ }
+.five ul li a{
+    display: block;
+    font-size: 16px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    padding: 0 25px;
+ }
+ .six{
+    display: flex;
+  
+ }
+
+.shaven{
+    max-width: 650px;
+    height: 650px;
+    padding: 40px 40px 40px 40px;
+}
+.nine{
+    padding-left: 60px;
+    margin-top: -50px;
+}
+.nine h1{
+    font-family: 'Gabriela', serif;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+    font-weight: 400;
+}
+.nine h2{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 80px;
+    font-weight: 400;
+}
+.nine h3{
+    font-size: 21px;
+    font-weight: 800;
+
+}
+.nine h3 u{
+   padding-bottom: 30px;
+}
+.nine p{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 30px;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+.nine button{
+    padding: 10px 15px 10px 15px;
+    background-color: #ffcc00;   
+}
+.eaght{
+    min-width: 600px;
+    height: 700px;
+     background-image: url(IMAGE/3759618.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    margin-left: 40px;
+    margin-top: -30px;
+    
+}
+.eaght img {
+    font-size: 10px;
+}
+.rakesh{
+    max-width: 80px;
+    height: 80px;
+   position: absolute;
+   left: 500px;
+   top: 100;
+}
+.utpala{
+    position: absolute;
+    left: 500px;
+    bottom: 40px;
+}
+.joy{
+    position: absolute;
+    left: 1200px;
+    bottom: 29px;
+}
+.ten{
+    width: 1440px;
+    height: 900;
+    margin: auto;
+    background-color: #ffffff;
+    display: block;
+    position: relative;
+}
+.fun{
+    position: absolute;
+    top: -250px;
+    display: block;
+}
+.bangla{
+    text-align: center;
+    padding-top: 70px;
+}
+.bangla h1{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 55px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+.bangla p{
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 200px;
+}
+.man{
+    max-width: 1440px;
+    height: 650px;
+   
+}
+.sub-man{
+    max-width: 1440px;
+    height: 140px;
+    margin: auto;
+    background-image: url(IMAGE/3759618-24.jpg);
+}
+.all{
+    max-width: 1440px;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 20px 20px;
+    margin-top: -300px;
+}
+.come{
+    width: 400px;
+    height: 600px;
+    background-color: #ffffff;
+}
+.come h2{
+    font-size: 20px;
+    font-weight: 800;
+}
+.come button{
+   padding: 20px 20px;
+   font-size:20px;
+   background-color: #ffcc00;
+
+}
+.come p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.comen{
+    width: 400px;
+    height: 600px;
+    background-color: #ffffff;
+}
+.comen h2{
+    font-size: 20px;
+    font-weight: 800;
+}
+.comen button{
+   padding: 20px 20px;
+   font-size:20px;
+   background-color: #ffcc00;
+
+}
+.comen p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.comen{
+    width: 400px;
+    height: 600px;
+    background-color: #ffffff;
+}
+.comem h2{
+    font-size: 20px;
+    font-weight: 800;
+}
+.comem button{
+   padding: 20px 20px;
+   font-size:20px;
+   background-color: #ffcc00;
+
+}
+.comem p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.open{
+    max-width: 1440px;
+    height: 800px;
+    margin: auto;
+    background-color: #ffffff;
+    position: relative;
+}
+.opena{
+    text-align: center;
+}
+.opena h1{
+    font-size: 20px;
+    font-weight: 800;
+}
+.opena h1{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 50px;
+    font-weight: 400;
+}
+.opena p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.f-1{
+    position: absolute;
+    bottom: 250px;
+    left: 0;
+    display: block;
+}
+.f-2{
+    position: absolute;
+    left: 360px;
+}
+.f-3{
+    position: absolute;
+    left: 1096px;
+    bottom: 250px;
+}
+.o10{
+    width: 1440px;
+    height: 550px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+.o11{
+    width: 600px;
+    height: 440px;
+    background-image: url(IMAGE/3759618-500.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.o11 p{
+    padding-top: 40px;
+    padding-left: 30px;
+    font-size: 25px;
+     font-weight: 400;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+.o11 h2{
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 45px;
+     font-weight: 800;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+.o12{
+    width: 600px;
+    height: 440px;
+}
+.O13{
+    width: 600px;
+    height: 200px;
+    background-image: url(IMAGE/3759618-501.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+}
+.O13 p{
+    padding-top: 25px;
+    padding-left: 10px;
+    font-size: 25px;
+     font-weight: 400;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+.O13 h2{
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 33px;
+     font-weight: 400;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+.O14{
+    width: 600px;
+    height: 200px;
+    background-image: url(IMAGE/375961-8-502.png);
+    background-position: center;
+    background-repeat: no-repeat;
+  
+}
+.O14 p{
+    padding-top: 25px;
+    padding-left: 10px;
+    font-size: 25px;
+     font-weight: 400;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+.O14 h2{
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 33px;
+     font-weight: 400;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+.o15{
+    width: 1440px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+}
+.o15 P{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400px;
+}
+.o15 h1{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 50px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+.F1{
+    
+    background-color: #ffcc00;
+    margin: 20px 20px 20px 20px;
+}
+.F1 input{
+    padding:  10px 20px 10px 20px;
+}
+.F2 input{
+    padding:  10px 20px 10px 20px;
+}
+.F3 input{
+    padding:  10px 60px 10px 60px;
+
+}
+.F4{
+    margin-left: 20px;
+}
+.F4 input{
+    padding:  10px 60px 10px 60px;
+}
+.F5 {
+    margin-left: -20px;
+}
+.F5 input{
+    padding:  10px 40px 10px 40px;
+ 
+}
+.F6{
+    padding:  10px 40px 10px 40px;
+    margin-left: 10px;
+    background-color: #ffcc00;
+}
+.o16{
+    width: 1440px;
+    height: 600px;
+    margin: auto;
+    background-image: url(IMAGE/3759618-Recovered-5555.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    
+}
+.r1{
+    width: 700px;
+    height: 500px;
+   
+}
+.r1{
+    padding-top: 100px;
+    padding-left: 80px;
+}
+.r1 p{
+    font-size: 16px;
+    color: #ffffff;
+    padding-top: 20px;
+    
+}
+.r1 h4{
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: 400px;
+    padding-top: 200px;
+}
+.r2{
+    width: 700px;
+    height: 500px;
+
+} 
+#rakesh{
+    font-size: 30px;
+    color: #ffcc00;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+.r2 p{
+    padding-left: 150px;
+    margin-top: -25px;
+   font-size: 16px;
+    color: #ffffff;
+}
+#utpala{
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 16px;
+    color: #ffcc00;
+}
+.r2 h3{
+    padding-left: 150px;
+    margin-top: -20px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400px;
+}
+.r3{
+    color: #ffffff;
+    font-size: 40px;
+    padding-left: 400px;
+    padding-top: 150px;
+}
+/* .r1{
+    padding-top: 100px;
+    padding-left: 80px;
+}
+.r1 p{
+    font-size: 21px;
+    color: #ffffff;
+    padding-top: 50px;
+}
+.r1 h4{
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: 400px;
+    padding-top: 200px;
+}
+#rakesh {
+    font-size: 30px;
+    color: #ff0000;
+    padding-left: 1000px;
+   margin-top: -50px;
+   */
+}
+
+
+
+
+
+
+
